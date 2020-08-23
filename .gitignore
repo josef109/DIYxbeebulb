@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+*.dep
 
 # Object files
 *.o
@@ -8,6 +9,8 @@
 *.elf
 *.s51
 *.r51
+*.pbi
+*.xcl
 
 # Linker output
 *.ilk
@@ -37,6 +40,7 @@
 *.i*86
 *.x86_64
 *.hex
+*.bin
 
 # Debug files
 *.dSYM/
@@ -53,3 +57,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+settings
+Obj
+List
