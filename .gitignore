@@ -6,6 +6,8 @@
 *.ko
 *.obj
 *.elf
+*.s51
+*.r51
 
 # Linker output
 *.ilk
@@ -41,6 +43,7 @@
 *.su
 *.idb
 *.pdb
+*.lst
 
 # Kernel Module Compile Results
 *.mod*
